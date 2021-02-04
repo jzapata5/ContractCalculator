@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Contract Calculator</string>
+    <string name="labor">Labor:</string>
+    <string name="subtotal">Subtotal:</string>
+    <string name="total">Total:</string>
+    <string name="_5">5%</string>
+    <string name="material">Material:</string>
+    <string name="contract_calculator">Contract Calculator</string>
+    <string name="tax">Tax:</string>
+    <string name="calculate">Calculate</string>
+</resources>
